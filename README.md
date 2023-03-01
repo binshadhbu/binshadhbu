@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BINSHADH BASHEER</h1>
 <h3 align="center">I'm computer science student from National Institute of Technology, Calicut,India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binshadhbu" alt="binshadhbu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/binshadhu" target="blank"><img src="https://img.shields.io/twitter/follow/binshadhu?logo=twitter&style=for-the-badge" alt="binshadhu" /></a> </p>
 
 - 📫 How to reach me **linkedin.com/in/binshadh-basheer-369476227**
