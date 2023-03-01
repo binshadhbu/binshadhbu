@@ -19,8 +19,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<ul><li><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binshadhbu&show_icons=true&theme=dark&locale=en&layout=compact" alt="binshadhbu" /></p></li>
-<li><p align="bottom">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binshadhbu&show_icons=true&theme=dark&locale=en" alt="binshadhbu" /></p></li>
-</ul>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binshadhbu&show_icons=true&theme=dark&locale=en&layout=compact" alt="binshadhbu" /></p>
+<li><p align="right" style={padding:".5rem";}>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binshadhbu&show_icons=true&theme=dark&locale=en" alt="binshadhbu" /></p>
 
 
