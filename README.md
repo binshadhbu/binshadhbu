@@ -19,7 +19,8 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binshadhbu&show_icons=true&theme=dark&locale=en&layout=compact" alt="binshadhbu" /></p>
+
 <li><p align="right" style={padding:".5rem";}>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binshadhbu&show_icons=true&theme=dark&locale=en" alt="binshadhbu" /></p>
 
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binshadhbu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
