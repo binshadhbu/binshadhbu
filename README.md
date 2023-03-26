@@ -23,4 +23,4 @@
 <li><p align="right" style={padding:".5rem";}>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binshadhbu&show_icons=true&theme=dark&locale=en" alt="binshadhbu" /></p>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binshadhbu&show_icons=true&theme=dark&count_private=true)
+
