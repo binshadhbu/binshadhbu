@@ -19,7 +19,7 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
-[![binshadhbu's GitHub | Languages Over Time](https://stats.quine.sh/binshadhbu/languages-over-time?theme=light)](https://quine.sh)
+[![binshadhbu's GitHub | Languages Over Time](https://stats.quine.sh/binshadhbu/languages-over-time?theme=dark)](https://quine.sh)
 
 
 
